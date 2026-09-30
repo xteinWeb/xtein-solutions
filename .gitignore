@@ -1,0 +1,27 @@
+# Variables de entorno y secretos
+.env
+.env.local
+*.env
+*.pem
+*.key
+
+# Dependencias de paquetes
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Archivos de compilación y temporales
+dist/
+build/
+coverage/
+.angular/
+.cache/
+
+# Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
